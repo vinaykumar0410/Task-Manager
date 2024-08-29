@@ -1,3 +1,3 @@
 ## Task-Manager
-<p> complete springboot backend application with spring security </p>
-<p> application is all about managing tasks that are assigned for a particular user </p>
+<p> Springboot Backend Application with Spring Security </p>
+<p> Application is all about Managing Tasks that are assigned for a particular User </p>
